@@ -20,6 +20,7 @@ body{
     padding: 16px;
     border-radius: 16px;
     text-align: center;
+    margin: 0 1em;
 }
 .card img{
     width: 100%;
